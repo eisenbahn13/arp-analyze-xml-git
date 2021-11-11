@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<root>
+	<breakfast_menu count="1">
+		<food count="1" food_attr="1">
+			<name count="1" name_attr="1"/>
+			<price count="1"/>
+			<description count="1"/>
+			<calories count="1"/>
+		</food>
+		<food count="1">
+			<name count="1" name_attr="1"/>
+			<price count="1"/>
+			<description count="1"/>
+			<calories count="1"/>
+		</food>
+		<food count="3" food_attr="1" food_attr2="1">
+			<name count="3" name_attr="1"/>
+			<price count="3"/>
+			<description count="3"/>
+			<calories count="3"/>
+		</food>
+	</breakfast_menu>
+</root>

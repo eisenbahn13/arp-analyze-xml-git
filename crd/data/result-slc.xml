@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<root>
+	<Envelope count="1" xmlns:soap="1">
+		<Body count="1">
+			<getSubsidiaryLocationDataResponse count="1" xmlns:ns3="1" xmlns:ns2="1">
+				<SubsidiaryLocationReplicationResponse count="1">
+					<Deleted_Subsidiary_Location count="512">
+						<Subsidiary_Location_Code count="512"/>
+						<Deleted_Primary_Location count="512">
+							<Location_Code count="512"/>
+							<CountryCodeISO count="512"/>
+							<Start_Validity count="512"/>
+						</Deleted_Primary_Location>
+						<Subsidiary_Type_Code count="512"/>
+						<Allocation_Company_Code count="512"/>
+						<CountryCodeISO count="512"/>
+					</Deleted_Subsidiary_Location>
+					<Subsidiary_Location count="45042">
+						<CountryCodeISO count="45042"/>
+						<Responsible_IM_Code count="45028"/>
+						<Subsidiary_Location_Code count="45042"/>
+						<Primary_Location count="45042">
+							<Country count="45042">
+								<CountryCodeISO count="45042"/>
+								<Country_UIC_Code count="45042"/>
+								<Country_Name_EN count="45042"/>
+								<Country_Name_FR count="45042"/>
+								<Country_Name_DE count="45042"/>
+								<Sub_Loc_Code_Flag count="45042"/>
+								<Add_Date count="45042"/>
+								<Modified_Date count="45042"/>
+							</Country>
+							<Location_Code count="45042"/>
+							<Start_Validity count="45042"/>
+							<End_Validity count="45042" xmlns:xsi="44867" xsi:nil="44867"/>
+							<ResponsibleIM count="45042">
+								<Company_Name count="45042"/>
+								<Company_Name_ASCII count="45042"/>
+								<Company_UIC_Code count="45042"/>
+								<Company_URL count="45042"/>
+								<Country count="45042">
+									<CountryCodeISO count="45042"/>
+									<Country_UIC_Code count="45042"/>
+									<Country_Name_EN count="45042"/>
+									<Country_Name_FR count="45042"/>
+									<Country_Name_DE count="45042"/>
+									<Sub_Loc_Code_Flag count="45042"/>
+									<Add_Date count="45042"/>
+									<Modified_Date count="45042"/>
+								</Country>
+								<Start_Validity count="45042"/>
+								<End_Validity count="45042" xmlns:xsi="45042" xsi:nil="45042"/>
+								<Company_Short_Name count="45042"/>
+								<Free_Text count="45042"/>
+								<Contact_Details count="45042">
+									<Contact_Person count="45042"/>
+									<Email count="45042"/>
+									<Phone_Number count="45042"/>
+									<FAX_Number count="45042"/>
+									<Address count="45042"/>
+									<City count="45042"/>
+									<Mobile_Number count="45042"/>
+									<Postal_Code count="45042"/>
+								</Contact_Details>
+								<Passenger_Flag count="45042"/>
+								<Freight_Flag count="45042"/>
+								<Infrastructure_Flag count="45042"/>
+								<Other_Company_flag count="45042"/>
+								<NE_Entity_Flag count="45042"/>
+								<CE_Entity_Flag count="45042"/>
+								<Add_Date count="45042"/>
+								<Modified_Date count="45042" xmlns:xsi="58" xsi:nil="58"/>
+							</ResponsibleIM>
+							<Location_Name count="45042"/>
+							<Location_Name_ASCII count="45042"/>
+							<NUTS_Code count="45042"/>
+							<Container_Handling_Flag count="45042"/>
+							<Handover_Point_Flag count="45042"/>
+							<Freight_Possible_Flag count="45042"/>
+							<Freight_Start_Validity count="45042" xmlns:xsi="28838" xsi:nil="28838"/>
+							<Freight_End_Validity count="45042" xmlns:xsi="44938" xsi:nil="44938"/>
+							<Passenger_Possible_Flag count="45042"/>
+							<Passenger_Start_Validity count="45042" xmlns:xsi="29108" xsi:nil="29108"/>
+							<Passenger_End_Validity count="45042" xmlns:xsi="44980" xsi:nil="44980"/>
+							<Longitude count="45042" xmlns:xsi="1487" xsi:nil="1487"/>
+							<Latitude count="45042" xmlns:xsi="1487" xsi:nil="1487"/>
+							<Free_Text count="45042"/>
+							<Add_Date count="45042"/>
+							<Modified_Date count="45042" xmlns:xsi="3191" xsi:nil="3191"/>
+						</Primary_Location>
+						<SubsidiaryType count="45042">
+							<Subsidiary_Type_Code count="45042"/>
+							<Subsidiary_Type_Name count="45042"/>
+							<IM_Flag count="45042"/>
+							<Freight_RU_Flag count="45042"/>
+							<Passenger_RU_Flag count="45042"/>
+							<Central_Entity_Flag count="45042"/>
+							<National_Entity_Flag count="45042"/>
+							<Others_Flag count="45042"/>
+							<Free_Text count="45042"/>
+							<Add_Date count="45042"/>
+							<Modified_Date count="45042" xmlns:xsi="20461" xsi:nil="20461"/>
+						</SubsidiaryType>
+						<Subsidiary_Location_Name count="45042" xmlns:xs="45042" xmlns:xsi="45042" xsi:type="45042"/>
+						<Start_Validity count="45042"/>
+						<End_Validity count="45042" xmlns:xsi="44359" xsi:nil="44359"/>
+						<AllocationCompany count="45042">
+							<Company_Name count="45042"/>
+							<Company_Name_ASCII count="45042"/>
+							<Company_UIC_Code count="45042"/>
+							<Company_URL count="45042"/>
+							<Country count="45042">
+								<CountryCodeISO count="45042"/>
+								<Country_UIC_Code count="45042"/>
+								<Country_Name_EN count="45042"/>
+								<Country_Name_FR count="45042"/>
+								<Country_Name_DE count="45042"/>
+								<Sub_Loc_Code_Flag count="45042"/>
+								<Add_Date count="45042"/>
+								<Modified_Date count="45042"/>
+							</Country>
+							<Start_Validity count="45042"/>
+							<End_Validity count="45042" xmlns:xsi="45042" xsi:nil="45042"/>
+							<Company_Short_Name count="45042"/>
+							<Free_Text count="45042"/>
+							<Contact_Details count="45042">
+								<Contact_Person count="45042"/>
+								<Email count="45042"/>
+								<Phone_Number count="45042"/>
+								<FAX_Number count="45042"/>
+								<Address count="45042"/>
+								<City count="45042"/>
+								<Mobile_Number count="45042"/>
+								<Postal_Code count="45042"/>
+							</Contact_Details>
+							<Passenger_Flag count="45042"/>
+							<Freight_Flag count="45042"/>
+							<Infrastructure_Flag count="45042"/>
+							<Other_Company_flag count="45042"/>
+							<NE_Entity_Flag count="45042"/>
+							<CE_Entity_Flag count="45042"/>
+							<Add_Date count="45042"/>
+							<Modified_Date count="45042" xmlns:xsi="1610" xsi:nil="1610"/>
+						</AllocationCompany>
+						<Longitude count="45042" xmlns:xsi="22020" xsi:nil="22020"/>
+						<Latitude count="45042" xmlns:xsi="22020" xsi:nil="22020"/>
+						<Free_Text count="45042"/>
+						<Add_Date count="45042"/>
+						<Modified_Date count="45042" xmlns:xsi="42638" xsi:nil="42638"/>
+					</Subsidiary_Location>
+				</SubsidiaryLocationReplicationResponse>
+			</getSubsidiaryLocationDataResponse>
+		</Body>
+	</Envelope>
+</root>

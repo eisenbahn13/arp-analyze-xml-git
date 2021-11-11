@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<root>
+	<RINFData count="1">
+		<MemberStateCode count="1" Code="1" Version="1"/>
+		<SectionOfLine count="1936" ValidityDateStart="1936" ValidityDateEnd="1936">
+			<SOLIMCode count="1936" Value="1936"/>
+			<SOLLineIdentification count="1936" Value="1936"/>
+			<SOLOPStart count="1936" Value="1936"/>
+			<SOLOPEnd count="1936" Value="1936"/>
+			<SOLLength count="1936" Value="1936"/>
+			<SOLNature count="1936" Value="1936" OptionalValue="1936"/>
+			<SOLTrack count="2734" ValidityDateStart="2734" ValidityDateEnd="2734">
+				<SOLTrackIdentification count="2734" Value="2734"/>
+				<SOLTrackDirection count="2734" Value="2734"/>
+				<SOLTrackParameter count="470184" ID="470184" IsApplicable="470184" Value="288558" OptionalValue="181929" Set="142586"/>
+				<SOLTunnel count="242" ValidityDateStart="242" ValidityDateEnd="242">
+					<SOLTunnelIMCode count="242" Value="242"/>
+					<SOLTunnelIdentification count="242" Value="242"/>
+					<SOLTunnelStart count="242" Latitude="242" Longitude="242" Kilometer="242"/>
+					<SOLTunnelEnd count="242" Latitude="242" Longitude="242" Kilometer="242"/>
+					<SOLTunnelParameter count="2222" ID="2222" IsApplicable="2222" Value="941" OptionalValue="337"/>
+				</SOLTunnel>
+			</SOLTrack>
+		</SectionOfLine>
+		<OperationalPoint count="1752" ValidityDateStart="1752" ValidityDateEnd="1752">
+			<OPName count="1752" Value="1752"/>
+			<UniqueOPID count="1752" Value="1752"/>
+			<OPTafTapCode count="2236" Value="2236" IsApplicable="2236"/>
+			<OPType count="1752" Value="1752" OptionalValue="1752"/>
+			<OPTypeGaugeChangeover count="1746" IsApplicable="1746" Value="55"/>
+			<OPGeographicLocation count="1752" Longitude="1752" Latitude="1752"/>
+			<OPRailwayLocation count="2112" Kilometer="2112" NationalIdentNum="2112"/>
+			<OPTrack count="5264" ValidityDateStart="5264" ValidityDateEnd="5264">
+				<OPTrackIMCode count="5264" Value="5264"/>
+				<OPTrackIdentification count="5264" Value="5264"/>
+				<OPTrackParameter count="53203" ID="53203" IsApplicable="53203" Value="28824" OptionalValue="38573"/>
+				<OPTrackPlatform count="2345" ValidityDateStart="2345" ValidityDateEnd="2345">
+					<OPTrackPlatformIMCode count="2345" Value="2345"/>
+					<OPTrackPlatformIdentification count="2345" Value="2345"/>
+					<OPTrackPlatformParameter count="12000" ID="12000" IsApplicable="12000" Value="12000" OptionalValue="7310"/>
+				</OPTrackPlatform>
+				<OPTrackTunnel count="20" ValidityDateStart="20" ValidityDateEnd="20">
+					<OPTrackTunnelIMCode count="20" Value="20"/>
+					<OPTrackTunnelIdentification count="20" Value="20"/>
+					<OPTrackTunnelParameter count="140" ID="140" IsApplicable="140" Value="52" OptionalValue="32"/>
+				</OPTrackTunnel>
+			</OPTrack>
+			<OPSiding count="3346" ValidityDateStart="3346" ValidityDateEnd="3346">
+				<OPSidingIMCode count="3346" Value="3346"/>
+				<OPSidingIdentification count="3346" Value="3346"/>
+				<OPSidingParameter count="46888" ID="46888" IsApplicable="46888" Value="29051" OptionalValue="17152"/>
+				<OPSidingTunnel count="1" ValidityDateStart="1" ValidityDateEnd="1">
+					<OPSidingTunnelIMCode count="1" Value="1"/>
+					<OPSidingTunnelIdentification count="1" Value="1"/>
+					<OPSidingTunnelParameter count="6" ID="6" IsApplicable="6" Value="3" OptionalValue="2"/>
+				</OPSidingTunnel>
+			</OPSiding>
+			<OPRules count="1751">
+				<OPRulesParameter count="5223" ID="5223" IsApplicable="5223" Value="5223" OptionalValue="1751"/>
+			</OPRules>
+		</OperationalPoint>
+	</RINFData>
+</root>

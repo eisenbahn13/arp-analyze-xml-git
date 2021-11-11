@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<root>
+	<SubsidiaryLocations count="1" xsi:noNamespaceSchemaLocation="1" xmlns="1" xmlns:xsi="1">
+		<Subsidiary_Location count="45514">
+			<Country_ISO_Code count="45514"/>
+			<Responsible_IM_Code count="45500"/>
+			<Subsidiary_Location_Code count="45514"/>
+			<Location_Code count="45514"/>
+			<Subsidiary_Type_Code count="45514"/>
+			<Subsidiary_Location_Name count="45514"/>
+			<Start_Validity count="45514"/>
+			<AllocationCompany count="45514"/>
+			<Active_Flag count="45514"/>
+			<Add_Date count="45514"/>
+			<Modified_Date count="2407"/>
+			<End_Validity count="777"/>
+			<Free_Text count="6901"/>
+			<Latitude count="23493"/>
+			<Longitude count="23493"/>
+		</Subsidiary_Location>
+	</SubsidiaryLocations>
+</root>
